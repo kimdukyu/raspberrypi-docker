@@ -1,1 +1,1 @@
-sudo docker run -it -v /home/zoro:/home/yoctouser yoctorpi
+sudo docker run -it -v /home/${USER}:/home/yoctouser yoctorpi
